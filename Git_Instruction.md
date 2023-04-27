@@ -30,3 +30,9 @@ git config --global user.email ваша почта@example.com
 
 ## 6. Просмотр истории коммитов
 Выполнить в терминале комманду `git log` или `git log --oneline`
+
+## 7. Перемещение между коммитами
+
+Комманды в терминале:
+* `git checkout` или `git switch` – переход от одного коммита к другому.
+* `git checkout master` или `git switch master`  – вернуться к актуальному состоянию и продолжить работу.
