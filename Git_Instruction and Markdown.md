@@ -77,7 +77,9 @@ git switch <имя ветки>
 принять слияние из другой ветки
 оставить оба изменения
 ```
-
+klzf vujbskjgklfjlsi;vm,o
+ovmif ;a;ovik;b,aio
+lkmvsmkjl;bjosdzf
 
 # **Инструкция для работы с Markdown**
 
